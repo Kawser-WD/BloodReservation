@@ -1,0 +1,16 @@
+
+.global-container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-form{
+    margin: 80px;
+    height: 350px;
+    width: 380px;
+}
+.card-body{
+    background: #FFFFFF;
+    border-radius: 5px;
+}

@@ -1,0 +1,45 @@
+/* .headline{
+    font-family: 'Roboto', sans-serif ;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius:'10px'
+}
+.article-section{
+    height: 100vh;
+    background-color: #f18f8f;
+}
+.info{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.article{
+    margin-top: 40px;
+    border-color: lightsalmon;
+} */
+/* .news{
+    height: 100vh;
+    background: linear-gradient(90deg, purple, orange, salmon );
+}
+.title{
+    text-align: center;
+}
+.card{
+    top: 50%;
+}
+@media only screen and (max-width:768px) {
+    .card{
+        top: 0%;
+    }
+} */
+
+.article{
+    padding: 5% 10%;
+    background: #FDEFEF;
+}
+.feature-col{
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 20px 0px;
+}

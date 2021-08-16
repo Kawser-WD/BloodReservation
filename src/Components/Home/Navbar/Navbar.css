@@ -1,0 +1,9 @@
+.item{
+    margin-left: auto;
+    font-family: 'Roboto', sans-serif ;
+    font-weight: bold;
+    font-size: 15px;
+}
+nav{
+    background: linear-gradient(90deg,red,purple,pink);
+}
